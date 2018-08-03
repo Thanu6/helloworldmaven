@@ -25,7 +25,7 @@
 			<configuration>
 				<archive>
 					<manifest>
-						<mainClass>com.jcg.maven.App</mainClass>
+						<mainClass>com.mycompany.app</mainClass>
 					</manifest>
 				</archive>
 			</configuration>
